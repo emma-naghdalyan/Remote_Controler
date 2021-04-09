@@ -10,6 +10,7 @@ namespace Project
         protected string[] channels = { "Armenia premium TV","Armenian Public TV","Armenian Public Second TV","Shant TV","Armenia TV","5 TV","Kentron TV", "ArmNews TV","ATV","Ar TV"};
         public Controler()
         {
+            Console.WriteLine("Hellooooooooooooooooooo");
             Console.WriteLine("Hello. I am Remote Controler");
             Console.WriteLine();
             Console.WriteLine("You can change channels, mute volume, volume +,volume -. You can also activate menu");

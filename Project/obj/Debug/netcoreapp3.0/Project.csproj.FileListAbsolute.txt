@@ -1,0 +1,11 @@
+C:\Users\Emma\source\repos\Remote_Controler\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\Emma\source\repos\Remote_Controler\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\Emma\source\repos\Remote_Controler\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\Emma\source\repos\Remote_Controler\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\Emma\source\repos\Remote_Controler\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\Emma\source\repos\Remote_Controler\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Emma\source\repos\Remote_Controler\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\Emma\source\repos\Remote_Controler\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\Emma\source\repos\Remote_Controler\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\Emma\source\repos\Remote_Controler\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\Emma\source\repos\Remote_Controler\Project\obj\Debug\netcoreapp3.0\Project.pdb
